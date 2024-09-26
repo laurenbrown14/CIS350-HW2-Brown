@@ -1,8 +1,8 @@
 # Lauren Brown
 
 - I like to play sports.
-- My favorite food is mashed potatoes. 
-- I have seven siblings. 
+- I like to go on walks and be active.
+- One of my favorite things to do is to draw and create art.
 
 ## Technical Background
 I have some experience in programming. I primarily used Java in high school in my computer science classes. I learned Python last year as a freshman. Now I am trying to learn C. 
